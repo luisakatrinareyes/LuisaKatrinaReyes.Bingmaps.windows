@@ -6,15 +6,20 @@
         xmlns:m="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF"
         xmlns:local="clr-namespace:LuisaKatrinaReyes.Bingmaps.windows"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="436.596" Width="874.681">
     <Grid x:Name="LayoutRoot" Background="White">
-        
-        <m:Map CredentialsProvider="iYqdHrc2LFvOWHTc5pad~l8SvFCKJ5HcKB1ouPKW_xw~At8YQk6RGI0cn__R3CueF4_EN6G2fAE6VII3XNHOFE69zac4DFUG3Fyg-A_D9aHR "
+
+        <m:Map CredentialsProvider="iYqdHrc2LFvOWHTc5pad~l8SvFCKJ5HcKB1ouPKW_xw~At8YQk6RGI0cn__R3CueF4_EN6G2fAE6VII3XNHOFE69zac4DFUG3Fyg-A_D9aHR"
                Mode="AerialWithLabels"
                Center="14.6417,120.4818"
-               ZoomLevel="16" Margin="10,-10,-10,10"
-               Name="KathMap"/>
-        <m:Pushpin Location="14.8781,120.4546" Margin="332,154,426,225" RenderTransformOrigin="-3.4,1.22"/>
-        
+               ZoomLevel="16" Margin="10,-10,191,0"
+               Name="KathMap" MouseDoubleClick="KathMap_MouseDoubleClick"
+               />
+        <Label x:Name="lblDateTime" Content="DateTime" HorizontalAlignment="Left" Height="56" Margin="681,295,0,0" VerticalAlignment="Top" Width="157" FontSize="24" FontWeight="Bold"/>
+        <Label x:Name="lblSummary" Content="Summary" HorizontalAlignment="Left" Height="56" Margin="681,15,0,0" VerticalAlignment="Top" Width="157" FontSize="24" FontWeight="Bold"/>
+        <Label x:Name="lblTemperature" Content="Temperature" HorizontalAlignment="Left" Height="56" Margin="681,71,0,0" VerticalAlignment="Top" Width="157" FontSize="24" FontWeight="Bold"/>
+        <Label x:Name="lblHumidity" Content="Humidity" HorizontalAlignment="Left" Height="56" Margin="681,127,-7,0" VerticalAlignment="Top" Width="193" FontSize="24" FontWeight="Bold"/>
+        <Label x:Name="lblPressure" Content="Pressure" HorizontalAlignment="Left" Height="56" Margin="681,183,-7,0" VerticalAlignment="Top" Width="193" FontSize="24" FontWeight="Bold"/>
+        <Label x:Name="lblWindspeed" Content="Windspeed" HorizontalAlignment="Left" Height="56" Margin="681,239,-7,0" VerticalAlignment="Top" Width="193" FontSize="24" FontWeight="Bold"/>
     </Grid>
 </Window>

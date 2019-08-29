@@ -16,3 +16,25 @@ C:\Users\VGD 15\source\repos\LuisaKatrinaReyes.Bingmaps\LuisaKatrinaReyes.Bingma
 C:\Users\VGD 15\source\repos\LuisaKatrinaReyes.Bingmaps\LuisaKatrinaReyes.Bingmaps.windows\obj\Debug\LuisaKatrinaReyes.Bingmaps.windows.csproj.CopyComplete
 C:\Users\VGD 15\source\repos\LuisaKatrinaReyes.Bingmaps\LuisaKatrinaReyes.Bingmaps.windows\obj\Debug\LuisaKatrinaReyes.Bingmaps.windows.exe
 C:\Users\VGD 15\source\repos\LuisaKatrinaReyes.Bingmaps\LuisaKatrinaReyes.Bingmaps.windows\obj\Debug\LuisaKatrinaReyes.Bingmaps.windows.pdb
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\BingMap\LuisaKatrinaReyes.Bingmaps\LuisaKatrinaReyes.Bingmaps.windows\bin\Debug\LuisaKatrinaReyes.Bingmaps.windows.exe.config
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\BingMap\LuisaKatrinaReyes.Bingmaps\LuisaKatrinaReyes.Bingmaps.windows\bin\Debug\LuisaKatrinaReyes.Bingmaps.windows.exe
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\BingMap\LuisaKatrinaReyes.Bingmaps\LuisaKatrinaReyes.Bingmaps.windows\bin\Debug\LuisaKatrinaReyes.Bingmaps.windows.pdb
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\BingMap\LuisaKatrinaReyes.Bingmaps\LuisaKatrinaReyes.Bingmaps.windows\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\BingMap\LuisaKatrinaReyes.Bingmaps\LuisaKatrinaReyes.Bingmaps.windows\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\BingMap\LuisaKatrinaReyes.Bingmaps\LuisaKatrinaReyes.Bingmaps.windows\obj\Debug\LuisaKatrinaReyes.Bingmaps.windows.csprojAssemblyReference.cache
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\BingMap\LuisaKatrinaReyes.Bingmaps\LuisaKatrinaReyes.Bingmaps.windows\obj\Debug\MainWindow.g.cs
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\BingMap\LuisaKatrinaReyes.Bingmaps\LuisaKatrinaReyes.Bingmaps.windows\obj\Debug\App.g.cs
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\BingMap\LuisaKatrinaReyes.Bingmaps\LuisaKatrinaReyes.Bingmaps.windows\obj\Debug\LuisaKatrinaReyes.Bingmaps.windows_MarkupCompile.cache
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\BingMap\LuisaKatrinaReyes.Bingmaps\LuisaKatrinaReyes.Bingmaps.windows\obj\Debug\LuisaKatrinaReyes.Bingmaps.windows_MarkupCompile.lref
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\BingMap\LuisaKatrinaReyes.Bingmaps\LuisaKatrinaReyes.Bingmaps.windows\obj\Debug\MainWindow.baml
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\BingMap\LuisaKatrinaReyes.Bingmaps\LuisaKatrinaReyes.Bingmaps.windows\obj\Debug\LuisaKatrinaReyes.Bingmaps.windows.g.resources
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\BingMap\LuisaKatrinaReyes.Bingmaps\LuisaKatrinaReyes.Bingmaps.windows\obj\Debug\LuisaKatrinaReyes.Bingmaps.windows.Properties.Resources.resources
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\BingMap\LuisaKatrinaReyes.Bingmaps\LuisaKatrinaReyes.Bingmaps.windows\obj\Debug\LuisaKatrinaReyes.Bingmaps.windows.csproj.GenerateResource.cache
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\BingMap\LuisaKatrinaReyes.Bingmaps\LuisaKatrinaReyes.Bingmaps.windows\obj\Debug\LuisaKatrinaReyes.Bingmaps.windows.csproj.CoreCompileInputs.cache
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\BingMap\LuisaKatrinaReyes.Bingmaps\LuisaKatrinaReyes.Bingmaps.windows\obj\Debug\LuisaKatrinaReyes.Bingmaps.windows.csproj.CopyComplete
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\BingMap\LuisaKatrinaReyes.Bingmaps\LuisaKatrinaReyes.Bingmaps.windows\obj\Debug\LuisaKatrinaReyes.Bingmaps.windows.exe
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\BingMap\LuisaKatrinaReyes.Bingmaps\LuisaKatrinaReyes.Bingmaps.windows\obj\Debug\LuisaKatrinaReyes.Bingmaps.windows.pdb
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\BingMap\LuisaKatrinaReyes.Bingmaps\LuisaKatrinaReyes.Bingmaps.windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\BingMap\LuisaKatrinaReyes.Bingmaps\LuisaKatrinaReyes.Bingmaps.windows\bin\Debug\RestSharp.dll
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\BingMap\LuisaKatrinaReyes.Bingmaps\LuisaKatrinaReyes.Bingmaps.windows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\COMLABPC7\Desktop\Don't Delete this Files\PROJECTS\BingMap\LuisaKatrinaReyes.Bingmaps\LuisaKatrinaReyes.Bingmaps.windows\bin\Debug\RestSharp.xml
