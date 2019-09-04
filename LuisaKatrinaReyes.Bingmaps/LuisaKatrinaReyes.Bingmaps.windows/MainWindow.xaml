@@ -5,21 +5,23 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:m="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF"
         xmlns:local="clr-namespace:LuisaKatrinaReyes.Bingmaps.windows"
-        mc:Ignorable="d"
-        Title="MainWindow" Height="436.596" Width="874.681">
+        
+        Title="MainWindow" Height="608.448" Width="1046.533">
     <Grid x:Name="LayoutRoot" Background="White">
 
         <m:Map CredentialsProvider="iYqdHrc2LFvOWHTc5pad~l8SvFCKJ5HcKB1ouPKW_xw~At8YQk6RGI0cn__R3CueF4_EN6G2fAE6VII3XNHOFE69zac4DFUG3Fyg-A_D9aHR"
                Mode="AerialWithLabels"
                Center="14.6417,120.4818"
-               ZoomLevel="16" Margin="10,-10,191,0"
-               Name="KathMap" MouseDoubleClick="KathMap_MouseDoubleClick"
+               ZoomLevel="16" Margin="-43,-10,416,0"
+               Name="KathMap"
+               MouseDoubleClick="KathMap_MouseDoubleClick" MouseDown="KathMap_MouseDown" ViewChangeStart="KathMap_ViewChangeStart"
                />
-        <Label x:Name="lblDateTime" Content="DateTime" HorizontalAlignment="Left" Height="56" Margin="681,295,0,0" VerticalAlignment="Top" Width="157" FontSize="24" FontWeight="Bold"/>
-        <Label x:Name="lblSummary" Content="Summary" HorizontalAlignment="Left" Height="56" Margin="681,15,0,0" VerticalAlignment="Top" Width="157" FontSize="24" FontWeight="Bold"/>
-        <Label x:Name="lblTemperature" Content="Temperature" HorizontalAlignment="Left" Height="56" Margin="681,71,0,0" VerticalAlignment="Top" Width="157" FontSize="24" FontWeight="Bold"/>
-        <Label x:Name="lblHumidity" Content="Humidity" HorizontalAlignment="Left" Height="56" Margin="681,127,-7,0" VerticalAlignment="Top" Width="193" FontSize="24" FontWeight="Bold"/>
-        <Label x:Name="lblPressure" Content="Pressure" HorizontalAlignment="Left" Height="56" Margin="681,183,-7,0" VerticalAlignment="Top" Width="193" FontSize="24" FontWeight="Bold"/>
-        <Label x:Name="lblWindspeed" Content="Windspeed" HorizontalAlignment="Left" Height="56" Margin="681,239,-7,0" VerticalAlignment="Top" Width="193" FontSize="24" FontWeight="Bold"/>
+        <Label x:Name="lblDateTime" Content="DateTime" HorizontalAlignment="Left" Height="56" Margin="681,295,0,0" VerticalAlignment="Top" Width="348" FontSize="24" FontWeight="Bold"/>
+        <Label x:Name="lblSummary" Content="Summary" HorizontalAlignment="Left" Height="56" Margin="681,15,0,0" VerticalAlignment="Top" Width="348" FontSize="24" FontWeight="Bold"/>
+        <Label x:Name="lblTemperature" Content="Temperature" HorizontalAlignment="Left" Height="56" Margin="681,71,0,0" VerticalAlignment="Top" Width="348" FontSize="24" FontWeight="Bold"/>
+        <Label x:Name="lblHumidity" Content="Humidity" HorizontalAlignment="Left" Height="56" Margin="681,127,0,0" VerticalAlignment="Top" Width="348" FontSize="24" FontWeight="Bold"/>
+        <Label x:Name="lblPressure" Content="Pressure" HorizontalAlignment="Left" Height="56" Margin="681,183,0,0" VerticalAlignment="Top" Width="348" FontSize="24" FontWeight="Bold"/>
+        <Label x:Name="lblWindspeed" Content="Windspeed" HorizontalAlignment="Left" Height="56" Margin="681,239,0,0" VerticalAlignment="Top" Width="348" FontSize="24" FontWeight="Bold"/>
+        <TextBlock x:Name="CurrentPosition" HorizontalAlignment="Left" Margin="681,356,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="126" Width="295" Text="Current Position:" FontSize="24" FontWeight="Bold"/>
     </Grid>
 </Window>
